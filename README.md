@@ -1,13 +1,20 @@
 ## ✂️Rock, Paper and Scissors Game
 
-A simple Python game to practice
+A simple Python game to practice with code
 
 ## Description 🎮
 
 The game allows the user to challenge the computer by choosing between **rock**, **paper**, or **scissors**. 
 The winner is determined according to the classic rules of the game. This project covers many basic concepts of **Python programming**.
 
-## What you can learn
+## Features
+
+- 🎯 Score tracking up to 5
+- 🎨 Colorful feedback
+- 😂 Funny victory/defeat messages
+- 🧠 Built to grow with my Python knowledge
+
+## What you will learn
 
 | 📘 Concept                      | 📝 Description                       |
 |----------------------------------|--------------------------------------|
@@ -24,3 +31,5 @@ The winner is determined according to the classic rules of the game. This projec
 | Refactoring and Nested If        | Optimization and Readability         |
 | Accessing Dictionary Values      | Retrieving Values from a Dictionary  |
 | Testing Game                     | Checking Game Functionality          |
+
+
